@@ -9,3 +9,6 @@ This repository is organised in subdirectories for different publications. Withi
 * a `README.md` with more detailed description on the directory organization and publication reference details. 
 
 For more details, refer to the README in the respective directory.
+
+## Citation
+Feel free to use the data provided in this repository. If you do so, please make sure to cite the paper this data belongs to.

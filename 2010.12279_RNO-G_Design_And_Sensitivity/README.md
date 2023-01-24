@@ -2,10 +2,9 @@
 
 Collection of data and plotting scripts used for the RNO-G design paper
 
-## Reference
-
-arXiv:2010.12279v3
+## Journal Reference
 
 https://doi.org/10.1088/1748-0221/16/03/P03025
 
+arXiv:2010.12279v3
 
